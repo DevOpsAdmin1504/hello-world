@@ -1,5 +1,5 @@
 FROM ubuntu 
-MAINTAINER demousr@gmail.com 
+MAINTAINER shreya@gmail.com 
 
 RUN apt-get update  
 CMD [“echo”,”Image created”] 
